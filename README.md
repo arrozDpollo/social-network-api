@@ -66,4 +66,4 @@ POST /api/thoughts/:thoughtId/reactions - Create a new reaction
 DELETE /api/thoughts/:thoughtId/reactions/:reactionId - Remove a reaction
 
 ## Walkthrough Video
-A walkthrough video demonstrating the functionality of the Social Network API can be found here.
+[A walkthrough video demonstrating the functionality of the Social Network API can be found here.](https://github.com/arrozDpollo/social-network-api/blob/main/Module-18.mp4)
